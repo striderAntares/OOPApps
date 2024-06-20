@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>e253c97c-7425-4e2e-9ee4-7396bbf40e00</ID>
+  <NameSurname>Hüseyin Talo</NameSurname>
+  <Birthdate>1995-03-05T00:00:00</Birthdate>
+  <Email>huseyintaloo@gmail.com</Email>
+  <MobileNumber>905424989941</MobileNumber>
+  <Major>Nuclear Physics</Major>
+  <Average>85</Average>
+</Student>
